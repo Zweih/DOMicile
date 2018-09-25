@@ -4,5 +4,4 @@ module.exports = {
     path: __dirname,
     filename: "./lib/domicile.js"
 	},
-	devtool: "source-map"
 };

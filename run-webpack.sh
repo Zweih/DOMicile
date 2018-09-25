@@ -1,1 +1,1 @@
-webpack --watch lib/main.js -o lib/domicile.js --mode=development
+webpack --watch ./lib/main.js -o ./lib/domicile.js --mode=development
